@@ -42,7 +42,6 @@ header ul{
 }
 
 header li{
-    float:left;
     display:inline;
     padding: 0 20px 0 20px;
 }
@@ -89,7 +88,7 @@ header a:hover{
 
 #newsletter{
     padding:15px;
-    color:#fffff;
+    color:#ffffff;
     background:#35424a;
 }
 
